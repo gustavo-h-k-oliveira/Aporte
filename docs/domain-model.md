@@ -134,7 +134,7 @@ Não contempla:
 - Taxas variáveis ao longo do tempo.
 - Capitalização com convenções específicas de cada produto.
 - Imposto de renda ou IOF.
-- Taxas de custódia, tarifas ou outros custos.
+- Taxas de custódia, tarifas ou outros custos.README
 - Datas de aplicação, vencimento ou resgate.
 - Dias úteis, calendários financeiros ou contagem de dias.
 - Retorno real após a inflação.

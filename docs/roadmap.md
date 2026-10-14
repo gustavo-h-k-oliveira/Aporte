@@ -1,9 +1,5 @@
 # Roadmap de desenvolvimento — Aporte
 
-**Versão:** 0.2  
-**Status:** Em evolução  
-**Última atualização:** 14 de outubro de 2026
-
 ## Objetivo
 
 Desenvolver o Aporte progressivamente, priorizando correção financeira, simplicidade, explicabilidade e testes automatizados.
